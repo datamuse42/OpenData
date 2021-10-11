@@ -26,3 +26,4 @@
 | wealth_fortune_detail | 财富运势详情 |
 | health_detail | 健康指数详情 |
 | social_fortune_detail | 社交运势 |
+| site | 网站 |
