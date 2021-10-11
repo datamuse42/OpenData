@@ -27,9 +27,3 @@
 | mp_content      | 名篇文章内容                 |
 | mp_description      | 名篇描述                   |
 | mp_count      | 名篇数                     |
-
-
-
-## 项目链接
-
-[datamuse-苏东坡](https://datamuse.guokr.com/desktop?page=sdp)
