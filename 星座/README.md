@@ -1,7 +1,7 @@
 ![星座](https://i-young.guokr.net/FoQ6X9qpD7sOTd4W805phVukDDek)
 
 ## 项目简介
-
+我们用爬虫爬取了国内某两个知名星座网站+某些知名占星博客上与星座运势、性格解析、星座速配等内容，并对其进行了简单的自然语言处理和统计分析。用以证明星座的伪科学性，以及这些内容有多么不靠谱。
 
 ## 项目地址
 [星座运势控制器](https://datamuse.guokr.com/desktop?page=fhc)
