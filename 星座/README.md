@@ -1,4 +1,4 @@
-![星座](https://datamuse.guokr.com/fhc/title.png)
+![星座](https://i-young.guokr.net/FoQ6X9qpD7sOTd4W805phVukDDek)
 
 ## 项目简介
 
