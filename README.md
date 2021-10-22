@@ -13,6 +13,7 @@ DATAMUSE是一个来自果壳的数据可视化团队，我们尝试重新组织
 
 ## 我们在哪
 * 微信公众号：DATAMUSE
+  ![扫码关注我们](/image/Dm_QRcode.jpg)
 * 项目主页：[DATAMUSE](https://datamuse.guokr.com)
 
 ## 如何联系
